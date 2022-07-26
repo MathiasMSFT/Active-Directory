@@ -23,7 +23,6 @@ PS> .\Container-Mgmt.ps1 -Replace -Container Computers -OldPath "CN=Computers,DC
 ![image](./images/Result-Replace.png)
 
 ## Error you could see
-- Select accounts that will be member of the AAD DC Administrators
 
 ![image](./images/Error.png)
 
