@@ -14,10 +14,12 @@ Get-ADObject -LDAPFilter "(objectCategory=sitelink)" –Searchbase $NamingContex
 ```
 
 Via GUI
+
 ![image](./images/Automatically.png)
 
 
 ## Validate
+Be sure you have "USE_NOTIFY".
 
 ![image](./images/Validate-Option.png)
 
